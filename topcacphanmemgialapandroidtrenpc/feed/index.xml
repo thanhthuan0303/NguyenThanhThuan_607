@@ -10,9 +10,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho ReviewGame	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://thanhthuan0303.github.io/NguyenThanhThuan_607</link>
+	Các phản hồi luận về: TOP 5 PHẦN MỀM GIẢ LẬP ANDROID TRÊN PC	</title>
+	<atom:link href="http://localhost/myproject/wordpress/topcacphanmemgialapandroidtrenpc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thanhthuan0303.github.io/NguyenThanhThuan_607/topcacphanmemgialapandroidtrenpc/</link>
 	<description></description>
 	<lastBuildDate>Sat, 16 Oct 2021 05:21:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
